@@ -1,0 +1,15 @@
+.inputBar {
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border: none;
+    outline: none;
+    width: 23rem;
+    font-size: 24px;
+    color: chocolate;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
